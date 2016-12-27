@@ -1,0 +1,6 @@
+# blog page sections
+- name: Blog
+  href: '/blog/'
+
+- name: Home
+  href: '/'

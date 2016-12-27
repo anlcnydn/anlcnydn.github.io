@@ -1,0 +1,84 @@
+# careers section data
+- name:
+    detail: Started
+    i18n: master
+  desc:
+    detail: Master of Science in Computer Engineering, İzmir Institute of Technology, İzmir.
+    i18n: master_des
+  date:
+    detail: Ongoing
+    i18n: master_date
+  job:
+    detail: Pursuing Master's Degree
+    i18n: master_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Graduation
+    i18n: bachelor
+  desc:
+    detail: Bachelor of Science in Computer Engineering, İzmir Institute of Technology, İzmir.
+    i18n: bachelor_des
+  date:
+    detail: June 2016
+    i18n: bachelor_date
+  job:
+    detail: Computer Engineer
+    i18n: bachelor_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Part-time Software Developer at Sava Consultancy
+    i18n: sava
+  desc:
+    detail: I was responsible for developing a location aware social network application which is developed by using Google Maps v2 API on Android. Users can follow each other and share his/her location with friends. Each user can see his/her friends’ location on the map and they can send messages to each other, set alarms so that they can be aware of the selected friend is in the determined range.
+    i18n: sava_des
+  date:
+    detail: Sep. 2015 - Jan. 2016
+    i18n: sava_date
+  job:
+    detail: Software Developer
+    i18n: sava_job
+  icon: fa-mobile
+
+- name:
+    detail: Internship at Kale - Pratt & Whitney Aircraft Engine Industries, İzmir.
+    i18n: kale
+  desc:
+    detail: A storage management application builded by using Zxing’s barcode scanning feature on Android. Produced a barcode for each storage unit and stored in the application by scanning their barcodes. By using the same technique, user can add new item to the storage, delete existing items from storage and search for the number of specified items. Backend implemented with PHP and MySQL.
+    i18n: kale_des
+  date:
+    detail: July 2014
+    i18n: kale_date
+  job:
+    detail: Android Developer
+    i18n: kale_job
+  icon: fa-ship
+
+- name:
+    detail: Internship at Emato
+    i18n: emato
+  desc:
+    detail: Android Developer intern at Emato Elektronik Medikal Ar-Ge Tasarım Otomasyon Müh. Dış. Tic. Ltd. Şti., İzmir.
+    i18n: emato_des
+  date:
+    detail: July 2014
+    i18n: emato_date
+  job:
+    detail: Android Developer
+    i18n: emato_job
+  icon: fa-ship
+
+- name:
+    detail: Graduation
+    i18n: college
+  desc:
+    detail: At June 2010, I graduated from Sıhhiye Atatürk High School and started to university.
+    i18n: college_des
+  date:
+    detail: June 2010
+    i18n: college_date
+  job:
+    detail: Student
+    i18n: college_job
+  icon: fa-graduation-cap

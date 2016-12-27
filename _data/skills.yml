@@ -1,0 +1,33 @@
+# skills section data
+- name: Python
+  percentage: 60
+
+- name: Java
+  percentage: 85
+
+- name: HTML/CSS
+  percentage: 70
+
+- name: Javascript
+  percentage: 60
+
+- name: C/C++
+  percentage: 75
+
+- name: Php
+  percentage: 60
+
+- name: Android
+  percentage: 75
+
+- name: Redis
+  percentage: 60
+
+- name: Git
+  percentage: 75
+
+- name: Play Framework
+  percentage: 60
+
+- name: SQL
+  percentage: 80

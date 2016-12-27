@@ -1,0 +1,49 @@
+# Welcome to Jekyll!
+
+# Website settings
+# title: "Anıl Can Aydın"
+description: "Anıl's blog,use Jekyll and github pages."
+keywords: "developer,blog,learning,sharing"
+baseurl: "/"
+url: "http://anilcanaydin.com"
+
+
+# author
+author:
+  name: 'Anıl Can Aydın'
+  first_name: 'Anıl Can'
+  last_name: 'Aydın'
+  email: 'anlcnydn@gmail.com'
+  facebook_username: 'anlcnydn'
+  github_username: 'anlcnydn'
+  avatar: 'static/img/landing/anil.jpg'
+  desc: 'I need to find a description'
+
+# localization
+languages:
+  - locale: 'tr'
+    flag: 'static/img/flags/Turkey.png'
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
+
+# blog img path
+img_path: 'http://www.jack003.com/static/img/blog'
+
+# share
+bshare:
+  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+
+# baidu analytics
+ba:
+  # uuid: 317acca9ef9255b934e46371e471431d
+
+# google analytics
+ga:
+  id: UA-73784599-1
+
+# growingIO
+gio:
+  id: a49d4901c7853da9
+
+# Build settings
+encoding: "utf-8"

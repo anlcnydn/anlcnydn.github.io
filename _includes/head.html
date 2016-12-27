@@ -1,0 +1,44 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.desc %}
+    <meta content="{{ page.desc }}" name="description">
+  {% endif %}
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+  <meta name="author" content="{{ site.author.name }}">
+
+  <title>
+    {% if page.title != "index" %}
+        {{ site.title }}|{{ page.title }}
+    {% else %}
+        {{ site.title }}
+    {% endif %}
+  </title>
+  <!-- favicon -->
+  <link rel="shortcut icon" href="{{ "static/img/favicon.ico" | prepend: site.baseurl }}">
+
+  <!-- Third-party CSS -->
+  <link href="{{"bower_components/normalize-css/normalize.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{"bower_components/bootstrap/dist/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{"bower_components/animate.css/animate.min.css"| prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{"bower_components/components-font-awesome/css/font-awesome.min.css"| prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{"static/font-mfizz/font-mfizz.css"| prepend: site.baseurl }}" rel="stylesheet">
+  <!-- <link href="{{"bower_components/toastr/toastr.min.css"| prepend: site.baseurl }}" rel="stylesheet"> -->
+  <link href="{{"bower_components/jquery.gritter/css/jquery.gritter.css"| prepend: site.baseurl }}" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "search/css/cb-search.css" | prepend: site.baseurl }}">
+
+  <!-- Custom styles for this template -->
+  <link href="{{"static/css/style.min.css"| prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{"static/css/syntax.css"| prepend: site.baseurl }}" rel="stylesheet">
+
+  <script src="{{"bower_components/jquery/dist/jquery.min.js"| prepend: site.baseurl }}"></script>
+  <script src="{{"bower_components/bootstrap/dist/js/bootstrap.min.js"| prepend: site.baseurl }}"></script>
+  <script src="{{"bower_components/PACE/pace.min.js"| prepend: site.baseurl }}"></script>
+  <script src="{{"bower_components/wow/dist/wow.min.js"| prepend: site.baseurl }}"></script>
+
+  
+
+</head>
