@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-# title: "Anıl Can Aydın"
+title: "Anıl Can Aydın"
 description: "Anıl's blog,use Jekyll and github pages."
 keywords: "developer,blog,learning,sharing"
 baseurl: "/"
@@ -20,14 +20,14 @@ author:
   desc: 'I need to find a description'
 
 # localization
-languages:
-  - locale: 'tr'
-    flag: 'static/img/flags/Turkey.png'
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
+# languages:
+  # - locale: 'tr'
+    # flag: 'static/img/flags/Turkey.png'
+  # - locale: 'en'
+    # flag: 'static/img/flags/United-States.png'
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: ''
 
 # share
 bshare:
