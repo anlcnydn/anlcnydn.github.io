@@ -1,14 +1,14 @@
 # projects section data
 - name: 'clayface'
   i18n: 'clayface'
-  url: '/anlcnydn/clayface'
+  url: '/botham/clayface'
   img: 'static/img/landing/java.png'
   desc: 'An easy-to-use Java library for Facebook Messenger Bot API.'
 
 - name: 'botman'
   i18n: 'botman'
   url: '/botham/botman'
-  img: 'static/img/landing/play.png'
+  img: 'static/img/landing/botham.png'
   desc: "A service for messaging through different social media applications. Developing with Java, Play!, Redis, MySQL."
 
 - name: 'domates'
