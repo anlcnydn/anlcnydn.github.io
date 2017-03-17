@@ -1,6 +1,6 @@
 # skills section data
 - name: Python
-  percentage: 60
+  percentage: 80
 
 - name: Java
   percentage: 85
@@ -8,14 +8,11 @@
 - name: HTML/CSS
   percentage: 70
 
-- name: Javascript
+- name: Riak
   percentage: 60
 
 - name: C/C++
   percentage: 75
-
-- name: Php
-  percentage: 60
 
 - name: Android
   percentage: 75

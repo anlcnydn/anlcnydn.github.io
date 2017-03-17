@@ -1,6 +1,20 @@
 # careers section data
 - name:
     detail: Started
+    i18n: zeta
+  desc:
+    detail: Zetaops, İzmir.
+    i18n: zeta_des
+  date:
+    detail: Ongoing
+    i18n: zeta_date
+  job:
+    detail: Software Developer
+    i18n: zeta_job
+  icon: fa-laptop
+
+- name:
+    detail: Started
     i18n: master
   desc:
     detail: Master of Science in Computer Engineering, İzmir Institute of Technology, İzmir.
