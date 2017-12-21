@@ -4,7 +4,7 @@ title: Introduction to RabbitMQ
 desc: Aim of this post is to record and share things, that I learned from the hard way, in a tidy manner.   
 keywords: "messaging,rabbitmq,rabbit-mq,amqp,AMQP,broker,message-broker"
 date: 2017-12-21
-categories: [Mobile]
+categories: [Messaging]
 tags: [messaging, rabbitmq, rabbit-mq, amqp, AMQP, broker, message-broker]
 icon: fa-bookmark-o
 ---
