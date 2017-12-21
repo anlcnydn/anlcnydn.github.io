@@ -1,30 +1,28 @@
 # skills section data
-- name: Python
-  percentage: 80
 
-- name: Java
+- name: Python
   percentage: 85
 
-- name: HTML/CSS
+- name: Java
   percentage: 70
 
-- name: Riak
-  percentage: 60
-
-- name: C/C++
-  percentage: 75
-
-- name: Android
-  percentage: 75
-
 - name: Redis
+  percentage: 80
+
+- name: Riak
+  percentage: 70
+
+- name: RabbitMQ
   percentage: 60
+
+- name: RESTful API Design
+  percentage: 75
 
 - name: Git
-  percentage: 75
-
-- name: Play Framework
-  percentage: 60
+  percentage: 85
 
 - name: SQL
-  percentage: 80
+  percentage: 70
+
+- name: Android
+  percentage: 50
