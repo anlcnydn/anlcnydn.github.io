@@ -1,5 +1,47 @@
 # careers section data
 - name:
+    detail: IT at Academy Conferences 2018 (Akademik Bilişim)
+    i18n: ab
+  desc:
+    detail: http://ab2018.karabuk.edu.tr/
+    i18n: ab_des
+  date:
+    detail: February, 2018
+    i18n: ab_date
+  job:
+    detail: Building Python Apps with Microservices.
+    i18n: ab_job
+  icon: fa-laptop
+
+- name:
+    detail: GDG Izmir 2017
+    i18n: gdg
+  desc:
+    detail: https://gdgizmir.org/speakers
+    i18n: gdg_des
+  date:
+    detail: December, 2017
+    i18n: gdg_date
+  job:
+    detail: Dive Into Redis Talk at GDG Izmir 2017.
+    i18n: gdg_job
+  icon: fa-laptop
+
+- name:
+    detail: Django Girls Izmir - Mentorship
+    i18n: django
+  desc:
+    detail: https://djangogirls.org/izmir/
+    i18n: django_des
+  date:
+    detail: March, 2017
+    i18n: django_date
+  job:
+    detail: Mentorship at Django Girls Izmir 2017.
+    i18n: django_job
+  icon: fa-laptop
+
+- name:
     detail: Software Developer
     i18n: zeta
   desc:

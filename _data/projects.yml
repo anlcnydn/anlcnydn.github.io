@@ -1,4 +1,28 @@
 # projects section data
+- name: 'graceful'
+  i18n: 'graceful'
+  url: '/swistakm/graceful'
+  img: 'static/img/landing/github.png'
+  desc: 'Contribution to elegant Python REST toolkit built on top of falcon'
+
+- name: 'credis'
+  i18n: 'credis'
+  url: '/yihuang/credis'
+  img: 'static/img/landing/github.png'
+  desc: 'Contribution to minimal redis client written in cython, 5X faster than redis-py.'
+
+- name: 'pyoko'
+  i18n: 'pyoko'
+  url: '/zetaops/pyoko'
+  img: 'static/img/landing/github.png'
+  desc: 'Pyoko is a Django-esque ORM for Riak KV'
+
+- name: 'zengine'
+  i18n: 'zengine'
+  url: '/zetaops/zengine'
+  img: 'static/img/landing/github.png'
+  desc: 'BPMN workflow based framework with Tornado, Rabbit AMQP, advanced permissions, extensible scaffolding features and more'
+
 - name: 'clayface'
   i18n: 'clayface'
   url: '/botham/clayface'
@@ -10,21 +34,3 @@
   url: '/botham/botman'
   img: 'static/img/landing/botham.png'
   desc: "A service for messaging through different social media applications. Developing with Java, Play!, Redis, MySQL."
-
-- name: 'domates'
-  i18n: 'domates'
-  url: '/anlcnydn/domates'
-  img: 'static/img/landing/domates.png'
-  desc: "It is a pomodoro timer application for Google Chrome. Basically, counts 25 minutes for working and 5 minutes for resting. Aimed to keep track of each pomodoros and give daily and weekly reports to user. It is written in Javascript and used open source libraries so far is jquery-circle-progress."
-
-- name: 'Mute'
-  i18n: 'mute'
-  url: '/anlcnydn/mute'
-  img: 'static/img/landing/mute.png'
-  desc: It is a Vine like Android application which is inspired from charade game. Each user can upload 15 sec. silent movies under the existing topics and show on his/her feed the videos recorded by his/her friends. Also most popular and last updated videos can be seen. I am mainly responsible for the android client part and it is developed with Java on Android Studio. Backend is developed with Scala and Play Framework. Open Source Libraries used in this project are ButterKnife, UploadService.
-
-- name: 'reVision'
-  i18n: 'revision'
-  url: '/v4vision/revision'
-  img: 'static/img/landing/revision.png'
-  desc: Thesis Project supervised by Assist. Prof. Dr. Mustafa Özuysal. reVision is an open source, Renderscript powered computer vision library that can operate on all Android devices. It contains ready to use computer vision algorithm implementations with their sample applications. The vision algorithms are implemented in Renderscript which is a C99 derived language.
